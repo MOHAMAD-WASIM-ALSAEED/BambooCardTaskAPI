@@ -92,6 +92,11 @@ GET /HackerNews/BestStories
 1. **Containerization with Docker:** Package the application as a Docker image for easier deployment.
 2. **Container Orchestration with Kubernetes:** Enable container orchestration using Kubernetes to automate deployment, scaling, and load balancing.
 
+### Stability Modifications
+
+1. **Unit Testing:** Implement unit testing to ensure the stability of the API with every modification.
+
+
 ## Author
 
 Mohamad Wasim Alsaeed
