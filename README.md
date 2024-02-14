@@ -1,4 +1,4 @@
-# Hacker News API
+# Bamboo Task API
 
 ## Description
 
